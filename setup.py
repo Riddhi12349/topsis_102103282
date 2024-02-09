@@ -8,7 +8,7 @@ setup(
     version="1.0.13",
     author="Riddhi Garg",
     author_email="rgarg2_be21@thapar.com",
-    url="https://github.com/Riddhi12349/Topsis_Riddhi_102103282",
+    url="https://github.com/Riddhi12349/topsis_102103282",
     description="A python package for implementing topsis",
     long_description=long_description,
     long_description_content_type="text/markdown",
