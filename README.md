@@ -38,7 +38,7 @@ pip install Topsis-Riddhi-102103282
 Enter filename followed by .csv or .xlsx extension, then enter values of weights separated by commas like "1,1,1,2,2",then enter values of impacts separated by commas like "+,+,-,-,+" without giving space in between comma value, then enter name of file where you want to save output followed by .csv extension
 
 ```
-python -m Topsis_Priyal_102103282 data.xlsx "1,1,1,1,1" "+,-,+,-,+" output.csv
+python -m Topsis_Riddhi_102103282 data.xlsx "1,1,1,1,1" "+,-,+,-,+" output.csv
 ```
 
 ## Output
