@@ -1,0 +1,11 @@
+README.md
+setup.py
+Topsis_Riddhi_102103282/Topsis-102103282.py
+Topsis_Riddhi_102103282/__init__.py
+Topsis_Riddhi_102103282/__main__.py
+Topsis_Riddhi_102103282.egg-info/PKG-INFO
+Topsis_Riddhi_102103282.egg-info/SOURCES.txt
+Topsis_Riddhi_102103282.egg-info/dependency_links.txt
+Topsis_Riddhi_102103282.egg-info/entry_points.txt
+Topsis_Riddhi_102103282.egg-info/requires.txt
+Topsis_Riddhi_102103282.egg-info/top_level.txt

@@ -1,0 +1,2 @@
+[console_scripts]
+Topsis_Riddhi_102103282 = Topsis_Riddhi_102103282.main:main
